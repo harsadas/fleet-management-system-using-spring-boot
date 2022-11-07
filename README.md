@@ -20,5 +20,5 @@ making inspections, scheduling maintenance, reporting, and more.
 - [X] COFFEESCRIPT
 - [X] JAVA
 - [X] JAVASCRIPT
-### HOME PAGE
+### PROJECT HOME PAGE
 ![HOME](https://www.kindsonthegenius.com/spring-boot/wp-content/uploads/2020/01/Build-a-Complete-Spring-Boot-Application-Step-by-Step.jpg)
