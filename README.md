@@ -24,3 +24,4 @@ making inspections, scheduling maintenance, reporting, and more.
 ![HOME](https://www.kindsonthegenius.com/spring-boot/wp-content/uploads/2020/01/Build-a-Complete-Spring-Boot-Application-Step-by-Step.jpg)
 
 **You can get the working video on youtube [here](https://youtube.com/playlist?list=PL9l1zUfnZkZnfOFgWa4K9lTzhvCkjTQfm).**
+- for more projects follow me to get updated about the current projects.
