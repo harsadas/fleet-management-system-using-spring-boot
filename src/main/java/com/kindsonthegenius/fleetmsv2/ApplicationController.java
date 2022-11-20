@@ -9,8 +9,6 @@ public class ApplicationController {
 @GetMapping("/index")
 public String home(){
     return"index";
-
-
 }
 
     @GetMapping("/widgets")
