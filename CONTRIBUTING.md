@@ -1,1 +1,1 @@
-there is no rule for contributing to the project anyone can contribute to it.
+want to contribute and learn then just be into it.
